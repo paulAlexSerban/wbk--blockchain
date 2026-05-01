@@ -11,3 +11,6 @@
   - using `gas` and `balance` are interchangeable, but the `balance` command shows all coin types
 - `sui client merge-coin --primary-coin <COIN_ID> --coin-to-merge <COIN_ID>` - merge two coins into one coin
 - `sui client split-coin --coin <COIN_ID> --gas-budget <GAS_BUDGET> --amount <AMOUNT>` - split a coin into two coins
+
+## Blockchain explorers 
+- https://explorer.polymedia.app/?network=local - works with local netowrk
